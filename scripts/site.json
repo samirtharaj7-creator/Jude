@@ -1,0 +1,52 @@
+{
+  "key": "jude",
+  "title": "Jude Study",
+  "domain": "jude.mybibleexplorer.com",
+  "totalVerses": 25,
+  "totalChapters": 1,
+  "books": [
+    {
+      "slug": "jude",
+      "name": "Jude",
+      "verseCounts": [
+        25
+      ]
+    }
+  ],
+  "backgroundSections": [
+    [
+      "authorship",
+      "Authorship"
+    ],
+    [
+      "date-and-setting",
+      "Date and Setting"
+    ],
+    [
+      "the-readers-and-their-world",
+      "The Readers and Their World"
+    ],
+    [
+      "jude-and-the-family-of-jesus",
+      "Jude and the Family of Jesus"
+    ],
+    [
+      "the-false-teachers",
+      "The False Teachers"
+    ],
+    [
+      "judes-use-of-scripture-and-tradition",
+      "Jude's Use of Scripture and Tradition"
+    ],
+    [
+      "why-jude-wrote",
+      "Why Jude Wrote"
+    ],
+    [
+      "the-letter-at-a-glance",
+      "The Letter at a Glance"
+    ]
+  ],
+  "timelineSection": "jude-and-the-family-of-jesus",
+  "finalSection": "the-letter-at-a-glance"
+}
